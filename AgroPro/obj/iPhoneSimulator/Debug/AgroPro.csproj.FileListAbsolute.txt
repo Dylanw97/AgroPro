@@ -1,0 +1,43 @@
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\bin\iPhoneSimulator\Debug\AgroPro.exe
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\bin\iPhoneSimulator\Debug\AgroPro.pdb
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\AgroPro.csprojAssemblyReference.cache
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\AgroPro.csproj.CopyComplete
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\AgroPro.exe
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\AgroPro.pdb
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Contents.json.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon1024.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon167.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon120.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon152.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon180.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon29.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon40.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon58.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon76.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon80.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon87.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon20.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\Icon60.png.ResolveUTIs.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Broken Clouds.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Clear Sky.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Few Clouds.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Mist.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Rain.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Scattered Clouds.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Shower Rain.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Snow.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\optimized\Weather icons\Thunderstorm.png
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Essentials.dll.ReferenceCopyLocalPaths.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Essentials.pdb.ReferenceCopyLocalPaths.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\CopyFilesToMac\AgroPro.exe.mdb.ReferenceCopyLocalPaths.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\CopyFilesToMac\AgroPro.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
+G:\SourceCodes\.NET\Xamarin\iOS\AgroPro\AgroPro\AgroPro\AgroPro\AgroPro\obj\iPhoneSimulator\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
